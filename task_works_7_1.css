@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+}
+
+#table{
+  display: none;
+  position: relative;
+}
+
+#maintable{
+  border-collapse: collapse;
+}
+
+ul{
+  list-style:none;
+  display: flex;
+  text-align: center;
+  position: absolute;
+  justify-content: space-between;
+  right: 30%;
+  width: 40%;
+}
